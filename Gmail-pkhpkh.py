@@ -40,7 +40,7 @@ def artwork():
 *******************************************************
 * Author   : Afshin baloch
 * GitHub   : https://github.com/Afshin-baloch
-* YouTub   : TECHNICAL AKASH SKILLS
+* YouTub   : Woodcutter tiger
 * Instagram: afshin_baloch_
 * password : passworld.txt
 *************USE VPN OR TOR SERVICE********************
